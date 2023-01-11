@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# CRUD Http em Dart
+
+Nesse estudo consumi uma API de usuários externa com HTTP request usando Dart.
